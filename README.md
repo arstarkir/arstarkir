@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-  Computer Science student from Ukraine, currently studying at Michigan State University. And a Game Programmer with expireance in Unity, C#, PyGame, Python
+  Computer Science student from Ukraine, currently studying at Michigan State University. 
+  And a Game Programmer with expireance in Unity, C#, PyGame, Python
 </div>
 
 <div align="center">
