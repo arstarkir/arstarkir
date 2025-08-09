@@ -4,7 +4,7 @@
 
 <div align="center">
   Computer Science student from Ukraine, currently studying at Michigan State University. 
-  And a Game Programmer with experience in Unity, C#, PyGame, Python
+  And a Game Programmer with experience in Unity, C#, C++, Python
 </div>
 
 <div align="center">
